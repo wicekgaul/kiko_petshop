@@ -41,18 +41,6 @@
       </div>
     </div>
     <div class="col-md-3">
-      <div class="card text-white bg-warning mb-3">
-        <div class="card-body">
-          <h5 class="card-title">Transaksi Hari Ini</h5>
-          <p class="card-text fs-2 fw-bold">20</p>
-        </div>
-        <div class="card-footer d-flex justify-content-between align-items-center">
-          <span><i class="fas fa-shopping-cart"></i> Transaksi</span>
-          <a href="#" class="text-white">Lihat Detail</a>
-        </div>
-      </div>
-    </div>
-    <div class="col-md-3">
       <div class="card text-white bg-danger mb-3">
         <div class="card-body">
           <h5 class="card-title">Pelanggan Aktif</h5>

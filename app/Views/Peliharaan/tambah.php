@@ -19,11 +19,11 @@
             <?= csrf_field(); ?>
             <div class="form-group">
               <label for="nama">Nama Pelihraan</label>
-              <input type="text" class="form-control" id="nama" name="Nama" placeholder="Masukkan Nama Pelihraan" required>
+              <input type="text" class="form-control" id="nama" name="Nama" placeholder="Masukkan Nama Peliharaan" required>
             </div>
             <div class="form-group">
-              <label for="JenisKelamin">Jenis Kelamin</label>
-              <input type="text" class="form-control" id="JenisKelamin" name="JenisKelamin" placeholder="Masukkan Jenis Kelamin" required>
+              <label for="Jenis">Jenis</label>
+              <input type="text" class="form-control" id="Jenis" name="Jenis" placeholder="Masukkan Jenis" required>
             </div>
             <div class="form-group">
               <label for="Ras">Ras</label>
@@ -35,7 +35,7 @@
             </div>
             <div class="form-group">
               <label for="BeratBadan">Berat Badan</label>
-              <input type="BeratBadan" class="form-control" id="BeratBadan" name="BeratBadan" placeholder="Masukkan BeratBadan" required>
+              <input type="BeratBadan" class="form-control" id="BeratBadan" name="BeratBadan" placeholder="Masukkan Berat Badan" required>
             </div>
             <div class="form-group">
               <button type="submit" class="btn btn-primary btn-sm">Simpan</button>
